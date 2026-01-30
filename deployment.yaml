@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: python-k8s-app:v2
+        image: python-k8s-app:v3
         ports:
         - containerPort: 5000
